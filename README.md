@@ -1,0 +1,1 @@
+## html-assets-version-plugin

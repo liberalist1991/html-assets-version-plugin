@@ -1,0 +1,17 @@
+{
+  "name": "html-assets-version-plugin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "thinkzhan",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "repository": "https://github.com/liberalist1991/html-assets-version-plugin.git",
+  "keywords": [
+    "webpack",
+    "assets",
+    "version"
+  ]
+}
